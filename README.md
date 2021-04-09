@@ -25,11 +25,12 @@
 ||이름|설명|진행|
 |---|---|---|---|
 |![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|아주잠시 사용해 보았습니다|![5%](https://progress-bar.dev/5)|
-|![](https://img.icons8.com/plasticine/24/000000/react.png)|ReactJS|ReactJS를 사용하여 제작하는 편입니다|![40%](https://progress-bar.dev/40)|
+|![](https://img.icons8.com/plasticine/24/000000/react.png)|ReactJS|프론트를 대부분 리액트를 사용하여 제작하는 편입니다|![50%](https://progress-bar.dev/50)|
 
 ### 그 외
 ||이름|설명|진행|
 |---|---|---|---|
+|![](https://img.icons8.com/plasticine/24/000000/react.png)|ReactNative|ReactNavtive를 사용하여 SNS앱을 제작해본적 있습니다.|![80%](https://progress-bar.dev/40)|
 |![](https://img.icons8.com/color/24/000000/python.png)|Python|디스코드 봇, 윈도우 데스크탑 프로그램, 크롤러, 매크로를 제작할때 사용해보았습니다.|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/c.png)|C C++|주로 알고리즘을 풀 때, 시스템 프로그래밍을 할때 사용합니다.|![40%](https://progress-bar.dev/40)|
 |![](https://img.icons8.com/color/24/000000/linux.png)|Linux|주로 서버 운영을 할 때 사용합니다|![45%](https://progress-bar.dev/45)|
