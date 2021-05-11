@@ -8,7 +8,7 @@
 
 ||이름|프레임워크|설명|진행도|
 |---|---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/javascript.png)![](https://img.icons8.com/color/24/000000/typescript.png)|Javascript Typescript|Express, Koa|Koa 프레임워크를 사용하여 Rest API를 구현하고 개인블로그 서버를 제작하고 있습니다.|![75%](https://progress-bar.dev/75)|
+|![](https://img.icons8.com/color/24/000000/javascript.png)![](https://img.icons8.com/color/24/000000/typescript.png)|Javascript Typescript|Koa, Nest|Koa 프레임워크를 사용하여 Rest API를 구현하고 개인블로그 서버를 제작하고 있습니다.|![75%](https://progress-bar.dev/75)|
 |![](https://img.icons8.com/color/24/000000/golang.png)|Go|Gin, echo|echo프레임워크를 사용하여 웹 스크래퍼를 제작하였고 Gin을 사용하여 블로그서버를 제작해볼 예정입니다.|![30%](https://progress-bar.dev/30)|
 
 
