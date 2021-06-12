@@ -33,6 +33,7 @@
 |ReactNative|![](https://img.icons8.com/color/24/000000/javascript.png)javascript|iOS서비스를 제작할때 주로 사용하였습니다.|
 |Expo|![](https://img.icons8.com/color/24/000000/javascript.png)javascript|iOS서비스를 제작할때 ReactNative와 함께 사용하였습니다.|
 
+## DataBase
 |이름|아이콘|메모|
 |:------:|:---:|:---:|
 |MySQL|![](https://img.icons8.com/color/24/000000/mysql.png)|서비스를 제작할때 대부분 MySQL을 사용하였습니다.|
