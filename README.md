@@ -38,7 +38,7 @@
 |:------:|:---:|:---:|
 |MySQL|![](https://img.icons8.com/color/24/000000/mysql.png)|서비스를 제작할때 대부분 MySQL을 사용하였습니다.|
 |Oracle|![](https://img.icons8.com/color/24/000000/oracle.png)|학교 수업시간에 대부분 Oracle을 사용하여 관계형데이터베이스와 SQL문에 대해 공부합니다.|
-|MongoDB|![](https://img.icons8.com/color/24/000000/mongodb.png)|NoSQL데이터베이스에 대하여 공부하기위해 시작했습니다.|
+|MongoDB|![](https://img.icons8.com/color/24/000000/mongodb.png)|개인블로그 제작 프로젝트에 사용해보았습니다.|
 
 ## OS
 |이름|아이콘|메모|
