@@ -1,5 +1,8 @@
-# 🔭 고경태 | 고등학교 2학년 | <a href="mailto:kokt0203@naver.com">e-mail</a>
-<p>대덕소프트웨어마이스터고등학교에서 백엔드와 프론트엔드를 공부하고있는 고경태입니다.</p>
+# 🔭 고경태 | <a href="mailto:kokt0203@naver.com">e-mail</a> | <a href="https://kstory.vercel.app">Blog</a>
+### ✋ 대덕소프트웨어마이스터고등학교에서 백엔드와 프론트엔드를 공부하고있는 고경태입니다.
+### 💡 최근 TDD개발에 관심을 갖고 Nest, Go 서버를 개발하며 CI/CD Pipeline을 구축해보려 합니다.
+---
+
 
 ## Language
 
@@ -17,11 +20,14 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=Expo&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/yarn-%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 
 ## Tool
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,6 +36,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PM2](https://img.shields.io/badge/pm2-%23121011.svg?style=for-the-badge&logo=pm2&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -58,7 +65,7 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)
-
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
 [![Ko Gyeongtae's github stats](https://github-readme-stats.vercel.app/api?username=Ko-GyeongTae&show_icons=true&hide_border=true&count_private=true)](https://github.com/Ko-GyeongTae)
 
