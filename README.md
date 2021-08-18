@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Ruby](https://img.shields.io/badge/-Ruby-%23C21325?style=for-the-badge&logo=ruby)
 
 ## Framwork & Platform & Library
 
@@ -27,6 +28,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![RubyOnRails](https://img.shields.io/badge/RubyOnRails-%23C21325?style=for-the-badge&logo=RubyOnRails&logoColor=white)
 
 
 ## Tool
