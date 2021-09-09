@@ -12,8 +12,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Ruby](https://img.shields.io/badge/-Ruby-%23C21325?style=for-the-badge&logo=ruby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 
 ## Framwork & Platform & Library
 
@@ -28,8 +28,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![RubyOnRails](https://img.shields.io/badge/RubyOnRails-%23C21325?style=for-the-badge&logo=RubyOnRails&logoColor=white)
-
+![Fiber](https://img.shields.io/badge/Fiber-0078d7.svg?style=for-the-badge&logo=fiber&logoColor=white)
 
 ## Tool
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -71,3 +70,9 @@
 
 [![Ko Gyeongtae's github stats](https://github-readme-stats.vercel.app/api?username=Ko-GyeongTae&show_icons=true&hide_border=true&count_private=true)](https://github.com/Ko-GyeongTae)
 
+## 잠시 사용하여 본것
+![Ruby](https://img.shields.io/badge/-Ruby-%23C21325?style=for-the-badge&logo=ruby)
+![Php](https://img.shields.io/badge/-Php-311C87?style=for-the-badge&logo=php)
+
+#
+![RubyOnRails](https://img.shields.io/badge/RubyOnRails-%23C21325?style=for-the-badge&logo=RubyOnRails&logoColor=white)
