@@ -77,18 +77,6 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ![GithubAction](https://img.shields.io/badge/githubaction-%23121011.svg?style=flat-square&logo=Github&logoColor=white)
 
-## 잠시 사용하여 본것
-![Php](https://img.shields.io/badge/-Php-311C87?style=flat-square&logo=php)
-![Ruby](https://img.shields.io/badge/-Ruby-%23C21325?style=flat-square&logo=ruby)
-![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324)
-
-
-![RubyOnRails](https://img.shields.io/badge/RubyOnRails-%23C21325?style=flat-square&logo=RubyOnRails&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2311AB00.svg?style=flat-square&logo=Vue.js&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix-black?style=flat-square&logo=Rust&logoColor=#E57324)
-![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=flat-square&logo=Django&logoColor=white)
-
 ### Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![RedHat](https://img.shields.io/badge/RedHat-E95420?style=flat-square&logo=RedHat&logoColor=white)
@@ -121,3 +109,15 @@
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
+
+## 잠시 사용하여 본것
+![Php](https://img.shields.io/badge/-Php-311C87?style=flat-square&logo=php)
+![Ruby](https://img.shields.io/badge/-Ruby-%23C21325?style=flat-square&logo=ruby)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324)
+
+
+![RubyOnRails](https://img.shields.io/badge/RubyOnRails-%23C21325?style=flat-square&logo=RubyOnRails&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2311AB00.svg?style=flat-square&logo=Vue.js&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-black?style=flat-square&logo=Rust&logoColor=#E57324)
+![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=flat-square&logo=Django&logoColor=white)
