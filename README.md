@@ -11,8 +11,9 @@
 
 ## 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Ko-GyeongTae&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/Ko-GyeongTae/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-GyeongTae&layout=compact&theme=algolia)](https://github.com/Ko-GyeongTae/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ko-GyeongTae&show_icons=true&theme=vue&include_all_commits=true&count_private=true")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-GyeongTae&layout=compact&theme=vue)
+![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ko-GyeongTae&theme=vue)
 
 ---
 
@@ -32,8 +33,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![Swift](https://img.shields.io/badge/swift-FF6C37?logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 
-## Framework
+## Backend Framework
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
