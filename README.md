@@ -1,5 +1,7 @@
 [![Header](./github-readme.jpg "Header")](https://trail-dive-3c3.notion.site/78c2a0e073b24e1c96cf58d7bac6fdd2)
 
+<center>
+
 # 👋 &nbsp;백엔드 개발자 고경태입니다. ☺️
 
 ✔️ &nbsp;프론트엔드, 백엔드, 안드로이드, iOS, DevOps등 분야를 가리지않고 모두 도전하고 있습니다.\
@@ -11,8 +13,13 @@
 
 ## 💻 &nbsp;GitHub Analytics
 
+<figure>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ko-GyeongTae&show_icons=true&theme=vue&include_all_commits=true&count_private=true")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-GyeongTae&layout=compact&theme=vue)
+
+</figure>
+
 ![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ko-GyeongTae&theme=vue)
 
 ---
@@ -73,3 +80,5 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-black?logo=Expo&logoColor=white)
 ![StoryBoard](https://img.shields.io/badge/storyboard-FF6C37?logo=swift&logoColor=white)
+
+</center>
