@@ -15,7 +15,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ko-GyeongTae&theme=vue"/>
 </div>
 <div align="center">
-    <h1></h1>
     <h2>🤝🏻 &nbsp;Contact</h2>
     <a href="mailto:kokt360@gmail.com">
         <img src="https://img.shields.io/badge/-kokt360@gmail.com-D14836?logo=Gmail&logoColor=white"/>
@@ -23,7 +22,6 @@
     <a href="https://instagram.com/tae_gyeongs">
         <img src="https://img.shields.io/badge/-@taegyeongs-E4405F?logo=Instagram&logoColor=white"/>
     </a>
-    <h1></h1>
     <h2>🛠 &nbsp; Recently Use Technical Skills</h2>
     <h2>Language<h2>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"/>
