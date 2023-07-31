@@ -4,7 +4,6 @@
     <h1> 👋 &nbsp;백엔드 개발자 고경태입니다. ☺️ </h1>
     <p>✔️ &nbsp;프론트엔드, 백엔드, 안드로이드, iOS, DevOps등 분야를 가리지않고 모두 도전하고 있습니다.</p>
     <p>✔️ &nbsp;개발 후 리팩토링은 저에게 찝찝함을 없애주는 즐거운 과정입니다.</p>
-    <p>✔️ &nbsp;더 궁금하시다면? <a href="https://trail-dive-3c3.notion.site/  78c2a0e073b24e1c96cf58d7bac6fdd2">포트폴리오</a>를 방문해주세요.</p>
     <p>✔️ &nbsp; 2020~2021 자료는 <a href="https://github.com/Storage-Ko">여기</a>에 있습니다.</p>
     <h1 align="center"></h1>
     <h2>💻 &nbsp;GitHub Analytics</h2>
